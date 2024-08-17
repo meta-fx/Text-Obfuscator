@@ -57,7 +57,9 @@ To add new conversion types:
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-[Your contact information or project repository link]
+For updates and more information, follow us on Twitter: [@pogtx_](https://x.com/pogtx_)
+
+Visit our project repository: [Text Converter on GitHub](https://github.com/meta-fx/TextConverter)
