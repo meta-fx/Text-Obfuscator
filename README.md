@@ -1,10 +1,19 @@
 # Text Converter Browser Extension
 
 ## Overview
-Text Converter is a powerful browser extension that allows users to convert highlighted text into various formats directly from the context menu. With support for over 20 different conversion types, it's a versatile tool for writers, developers, and anyone who frequently works with text.
+Text Converter is a specialized browser extension designed for researchers and ethical hackers engaged in red teaming and jailbreaking Large Language Models (LLMs). This tool provides various text obfuscation methods to test and evaluate the robustness of LLM security measures.
+
+## Purpose
+The primary purpose of this extension is to assist in:
+- Obfuscating prompts to bypass content filters in LLMs
+- Testing the effectiveness of LLM safety mechanisms
+- Exploring potential vulnerabilities in AI language models
+- Supporting responsible disclosure of AI system weaknesses
+
+Note: This tool is intended for ethical research purposes only. Users are expected to adhere to responsible disclosure practices and relevant laws and regulations.
 
 ## Features
-- Convert selected text to multiple formats including:
+- Convert selected text using various obfuscation techniques including:
   - Pig Latin
   - Leet Speak
   - Reverse Text
@@ -52,6 +61,13 @@ To add new conversion types:
 1. Add the new conversion function to `content.js`.
 2. Add the new format to the `formats` array in `background.js`.
 3. Implement the conversion logic in the switch statement in `content.js`.
+
+## Ethical Considerations
+Users of this extension are expected to:
+- Obtain proper authorization before testing any LLM systems
+- Use the tool responsibly and ethically
+- Report any discovered vulnerabilities through appropriate channels
+- Avoid using the tool for malicious purposes or to cause harm
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
