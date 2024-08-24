@@ -1,7 +1,7 @@
-# Text Converter Browser Extension
+# Text Obfuscator Browser Extension
 
 ## Overview
-Text Converter is a specialized browser extension designed for researchers and ethical hackers engaged in red teaming and jailbreaking Large Language Models (LLMs). This tool provides various text obfuscation methods to test and evaluate the robustness of LLM security measures.
+Text Obfuscator is a specialized browser extension designed for researchers and ethical hackers engaged in red teaming and jailbreaking Large Language Models (LLMs). This tool provides various text obfuscation methods to test and evaluate the robustness of LLM security measures.
 
 ## Purpose
 The primary purpose of this extension is to assist in:
@@ -47,7 +47,7 @@ Note: This tool is intended for ethical research purposes only. Users are expect
 ## Usage
 1. Highlight any text on a webpage.
 2. Right-click to open the context menu.
-3. Navigate to "Convert Text" and choose your desired conversion format.
+3. Navigate to "Obfuscate Text" and choose your desired conversion format.
 4. The highlighted text will be instantly replaced with the converted version.
 
 ## Technical Details
@@ -78,4 +78,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 For updates and more information, follow us on Twitter: [@pogtx_](https://x.com/pogtx_)
 
-Visit our project repository: [Text Converter on GitHub](https://github.com/meta-fx/TextConverter)
+Visit our project repository: [Text Obfuscator on GitHub](https://github.com/meta-fx/TextObfuscator)

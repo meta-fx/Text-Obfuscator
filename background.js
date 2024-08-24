@@ -1,7 +1,7 @@
 chrome.runtime.onInstalled.addListener(() => {
   chrome.contextMenus.create({
     id: "textConverter",
-    title: "Convert Text",
+    title: "Obfuscate Text",
     contexts: ["selection"]
   });
 
