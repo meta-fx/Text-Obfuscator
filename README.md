@@ -1,5 +1,7 @@
 # Text Obfuscator Browser Extension
 
+![Demo](<https://s7.ezgif.com/tmp/ezgif-7-49ef494630.gif>)
+
 ## Overview
 Text Obfuscator is a specialized browser extension designed for researchers and ethical hackers engaged in red teaming and jailbreaking Large Language Models (LLMs). This tool provides various text obfuscation methods to test and evaluate the robustness of LLM security measures.
 
